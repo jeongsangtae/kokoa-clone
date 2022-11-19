@@ -13,5 +13,16 @@
 }
 
 .screen-header__icons span {
+  position: relative;
   margin-left: 25px;
+}
+
+.i__point {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  left: 23px;
+  bottom: 19px;
 }
